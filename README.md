@@ -1,4 +1,5 @@
-Módulo 8 - Laboratorio 8.2 Array Methos
+Laboratorio Módulo 8.2 - Array Methods
+
 ¿Te acuerdas del curro que te metiste en el laboratorio pasado? Sí, la práctica de los hospitales, pues ahora te toca implementarla con array methods, verás que bien que queda con esta nueva aproximación.
 
 Estamos desarrollando un software hospitalario, y el cliente nos pide poder realizar una serie se operaciones sobre una lista de pacientes.
